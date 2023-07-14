@@ -1,2 +1,4 @@
 # gamblersRuin-in-Python
-A Python program I wrote which demonstrates Gambler's Ruin.
+# Gambler's Ruin
+# Python program written by Sean Luciw July 2023
+# inspired by the topic in Udemy course
